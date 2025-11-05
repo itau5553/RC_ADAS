@@ -1,0 +1,28 @@
+ULTRASONIC RUN SUMMARY
+======================
+duration_s: 21.210
+samples   : 338
+threshold_cm: 60.0
+
+Distances (cm):
+  front: min=36.00, mean=151.74, median=105.75, valid_frac=0.994
+  left: min=7.80, mean=75.95, median=79.85, valid_frac=0.935
+  right: min=184.40, mean=202.27, median=199.50, valid_frac=0.373
+
+Fraction below threshold:
+  front: 0.161
+  left : 0.063
+  right: 0.000
+
+Servo range (µs):
+  min: 1100.0, max: 1900.0
+
+Radar gating events (counts):
+  RADAR_GATE_ON : 99
+  RADAR_GATE_OFF: 99
+
+Latency (front<threshold → first servo step):
+  n=3, mean=0.208s, median=0.000s, min=0.000s, max=0.623s
+
+Latency (EV markers → first servo step):
+  n=6, mean=0.069s, median=0.082s, min=0.016s, max=0.105s

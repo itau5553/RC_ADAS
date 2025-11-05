@@ -1,0 +1,6 @@
+trigger_time_s,trigger_ts_ms,front_cm_at_trigger,trigger_type,servo_change_time_s,servo_us_before,servo_us_after,servo_delta_us,latency_s
+7.511,320861,55.7,front<threshold,7.511,1500.0,1100.0,-400.0,0.0
+14.366,327716,56.1,front<threshold,14.366,1500.0,1100.0,-400.0,0.0
+16.845,330195,43.8,front<threshold,,,,,
+23.126,336476,52.5,front<threshold,23.126,1500.0,1100.0,-400.0,0.0
+24.504,337854,44.3,front<threshold,24.912,1900.0,1500.0,-400.0,0.4079999999999977

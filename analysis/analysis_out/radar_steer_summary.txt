@@ -1,0 +1,9 @@
+samples=311 duration_s=40.375
+robustness_valid_any=34.7% (radar returned a value)
+robustness_within_100cm=16.4% (target ≤100 cm)
+latency_count=134
+latency_mean_s=0.864
+latency_median_s=0.488
+latency_min_s=0.004
+latency_max_s=3.923
+latency_methods={'servo': 134}
