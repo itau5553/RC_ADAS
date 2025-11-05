@@ -1,8 +1,0 @@
-samples=139 duration_s=15.459
-threshold_cm=25.0 latency_window_s=3.0
-triggers_detected=2
-paired_stops=2
-latency_mean=0.127
-latency_median=0.127
-latency_min=0.127
-latency_max=0.127
