@@ -1,0 +1,5 @@
+mode,N,RT_med_ms,RT_IQR_ms,Success_pct,Steer_amp_med_us
+FUSION,100,,,98.0,392
+RADAR,90,,,98.9,333
+ULTRASONIC,10,,,100.0,
+UNKNOWN,57,,,98.2,
